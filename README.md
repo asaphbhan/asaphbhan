@@ -61,8 +61,8 @@ Learning by building projects and solving problems.
 ### `04. cat learning_roadmap.txt`
 
 ```text
-[IN PROGRESS]  Python core concepts and OOP
-[UP NEXT]      Exception handling and file handling
+[COMPLERED]  Python core concepts and OOP
+[IN PROGRESS]      Exception handling and file handling
 [PLANNED]      Linux and system administration
 [PLANNED]      Computer networking
 [PLANNED]      Infrastructure automation
